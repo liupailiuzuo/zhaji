@@ -1,6 +1,6 @@
-# ANAN-music
+# Chicken-music
 
-> Vue.js 打造高级实战——ANAN音乐 App
+> Vue.js 打造高级实战——Chicken音乐 App
 
 ## 项目树
 ```
